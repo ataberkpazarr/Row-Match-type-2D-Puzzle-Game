@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e49c6751357f6c49a4d5687a861d37f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - confettiFx: {fileID: 6615373223503697428, guid: 08c211a11ed474d4ba9cabdde5a2fc44,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
