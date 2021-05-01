@@ -13,7 +13,6 @@ Reset Levels button for setting all highest scores to 1000, the next level is be
 Gameplay: 
 
 ![resim](https://user-images.githubusercontent.com/55497058/116784342-733e1280-aa9c-11eb-9ac1-a91621ddb573.png) 
-![resim](https://user-images.githubusercontent.com/55497058/116784362-851fb580-aa9c-11eb-8a7c-a304844afc88.png)
 ![resim](https://user-images.githubusercontent.com/55497058/116785224-0711dd80-aaa1-11eb-8431-3dd7bcbf60cc.png)
 ![resim](https://user-images.githubusercontent.com/55497058/116785234-1abd4400-aaa1-11eb-89df-82ef0c7d3632.png)
 ![resim](https://user-images.githubusercontent.com/55497058/116785255-345e8b80-aaa1-11eb-9674-68f05da6e705.png)
